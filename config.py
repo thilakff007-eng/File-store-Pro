@@ -4,23 +4,23 @@ from logging.handlers import RotatingFileHandler
 # Bot Configuration
 LOG_FILE_NAME = "bot.log"
 PORT = '5010'
-OWNER_ID = 7156099919
+OWNER_ID = 7560349494
 
 MSG_EFFECT = 5046509860389126442
 
-SHORT_URL = "shrinkme.io" # shortner url 
-SHORT_API = "xxxxxxxxxxx45e6887xxxxxxxxxxx" # shortner API
-SHORT_TUT = "https://t.me/ANIME_X_FLEX/19" # shortner tutorial link
+SHORT_URL = "Arolink.com" # shortner url 
+SHORT_API = "4134296f6ba51789996b73ae880bf798671b6d9b" # shortner API
+SHORT_TUT = "https://t.me/AnimeWorld_07/18" # shortner tutorial link
 
 # Bot Configuration
-SESSION = "BotifyX-Botz"
-TOKEN = "82074727111:xxxxxxxxxxxxxxxxxx" # Bot token
-API_ID = "xxxxxx" # API ID
-API_HASH = "xxxxxxxxxxxxxxxxxx" # API HASH
+SESSION = "Anime_Filestore"
+TOKEN = "8917264519:AAGVsOjod9i__ryER7WfSvSArXeV2TkmvPo" # Bot token
+API_ID = "34822566" # API ID
+API_HASH = "3ab7815d50c6baec0e564742eee75b33" # API HASH
 WORKERS = 5
 
-DB_URI = "" # MongoDB URI
-DB_NAME = "BotifyX-Filestore"
+DB_URI = "mongodb+srv://thilakff007:0U8T4Aiaoqmje2UD@shadow.vetq4tn.mongodb.net/?appName=Shadow" # MongoDB URI
+DB_NAME = "thilakff007"
 
 FSUBS = [[-1003483476894, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
