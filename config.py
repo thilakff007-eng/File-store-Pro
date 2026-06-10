@@ -23,7 +23,6 @@ DB_URI = "mongodb+srv://thilakff007:0U8T4Aiaoqmje2UD@shadow.vetq4tn.mongodb.net/
 DB_NAME = "thilakff007"
 
 FSUBS = FSUBS = [
-    [-1003483476894, True, 10],
     [-1003809869259, True, 10],
     [-1003811620185, True, 10],
     [-1003321209759, True, 10],
