@@ -22,18 +22,24 @@ WORKERS = 5
 DB_URI = "mongodb+srv://thilakff007:0U8T4Aiaoqmje2UD@shadow.vetq4tn.mongodb.net/?appName=Shadow" # MongoDB URI
 DB_NAME = "thilakff007"
 
-FSUBS = [[-1003483476894, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
+FSUBS = FSUBS = [
+    [-1003483476894, True, 10],
+    [-1003809869259, True, 10],
+    [-1003811620185, True, 10],
+    [-1003321209759, True, 10],
+    [-1003899748028, True, 10]
+] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
-DB_CHANNEL =  -1001753514086  # just put channel id dont add ""
+DB_CHANNEL =  -1003580590124  # just put channel id dont add ""
 # Multiple Database Channels (can be set via bot settings)
 # DB_CHANNELS = {
-#     "-1002595092736": {"name": "Primary DB", "is_primary": True, "is_active": True},
-#     "-1001234567890": {"name": "Secondary DB", "is_primary": False, "is_active": True}
+#     "": {"name": "Primary DB", "is_primary": True, "is_active": True},
+#     "": {"name": "Secondary DB", "is_primary": False, "is_active": True}
 # }
 # Auto Delete Timer (seconds)
 AUTO_DEL = 300
 # Admin IDs
-ADMINS = [7156099919]
+ADMINS = [7560349494]
 # Bot Settings
 DISABLE_BTN = True
 PROTECT = True # For content protection stops message forwarding and copying from the bot and same goes for the screenshot
