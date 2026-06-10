@@ -14,7 +14,7 @@ SHORT_TUT = "https://t.me/AnimeWorld_07/18" # shortner tutorial link
 
 # Bot Configuration
 SESSION = "Anime_Filestore"
-TOKEN = "8917264519:AAGVsOjod9i__ryER7WfSvSArXeV2TkmvPo" # Bot token
+TOKEN = "8917264519:AAESWD4MDrUoXnnizKUVp0TRjoUr6iyYf3w" # Bot token
 API_ID = "34822566" # API ID
 API_HASH = "3ab7815d50c6baec0e564742eee75b33" # API HASH
 WORKERS = 5
