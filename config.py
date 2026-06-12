@@ -57,7 +57,7 @@ MESSAGES = {
     "SHORT": "https://ibb.co/mC9H5kmF",
     "SHORT_VERIFY": "https://ibb.co/rGg6R2q6",
     "PREMIUM_PLANS_PIC": "https://ibb.co/8Dzq5n9G",
-    "QR_PAYMENT_PIC": "https://ibb.co/kVPDT5cP"
+    "QR_PAYMENT_PIC": "https://kommodo.ai/i/YjlXEJiQ6VoChxSDNPmN"
 }
 
 def LOGGER(name: str, client_name: str) -> logging.Logger:
