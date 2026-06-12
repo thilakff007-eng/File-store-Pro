@@ -80,7 +80,7 @@ async def start_command(client: Client, message: Message):
                             InlineKeyboardButton("✨ ᴄʟɪᴄᴋ ʜᴇʀᴇ ✨", url=unlock_link)
                         ],
                         [
-                            InlineKeyboardButton("• ʙᴜʏ ᴘʀᴇᴍɪᴜᴍ •", url="https://t.me/ITSANIMEN")
+                            InlineKeyboardButton("• ʙᴜʏ ᴘʀᴇᴍɪᴜᴍ •", url="https://t.me/Twilight_chaos")
                         ]
                     ])
                 )
