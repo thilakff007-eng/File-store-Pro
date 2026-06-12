@@ -36,7 +36,7 @@ DB_CHANNEL =  -1003580590124  # just put channel id dont add ""
 #     "": {"name": "Secondary DB", "is_primary": False, "is_active": True}
 # }
 # Auto Delete Timer (seconds)
-AUTO_DEL = 300
+AUTO_DEL = 800
 # Admin IDs
 ADMINS = [7560349494]
 # Bot Settings
