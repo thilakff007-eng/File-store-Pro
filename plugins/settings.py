@@ -603,7 +603,7 @@ async def show_cplan_callback(client, query):
         "» 120 credits : ₹220\n"
         "» 240 credits : ₹480</blockquote>\n"
         "━━━━━━━━━━━━━━━━━━━\n"
-        "<blockquote>✦ Contact @ITSANIMEN to Buy Credits</blockquote>"
+        "<blockquote>✦ Contact @Twilight_chaos to Buy Credits</blockquote>"
     )
 
     await query.message.edit_text(
